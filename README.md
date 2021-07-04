@@ -1,1 +1,2 @@
 # Machine-Learning-HW
+The goal of this notebook is to determine which machine learning classifcation models are the best at determining credit risk. We will find out which metrics are most important in determing credit worthiness(the likelihood of a person to be delinquient on a loan) based on our spcific data. As well as which model produces the best resluts for us in the end. We have used a variety or models and methods to determine the ost accurate apporoach. 
